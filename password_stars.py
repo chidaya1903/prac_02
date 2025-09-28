@@ -23,5 +23,5 @@ def print_stars(text: str) -> None:
     print("*" * len(text))
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
